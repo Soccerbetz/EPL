@@ -3,7 +3,7 @@
     <title>EPL Angles</title>
     <link href="https://soccerbetz.github.io/EPL/feed.xml" rel="self" />
     <link href="https://soccerbetz.github.io/EPL" />
-    <updated>2023-01-15T09:43:26+02:00</updated>
+    <updated>2023-01-15T11:48:01+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -14,19 +14,15 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/about.html"/>
-        <id>https://soccerbetz.github.io/EPL/about.html</id>
+        <link href="https://soccerbetz.github.io/EPL/about/"/>
+        <id>https://soccerbetz.github.io/EPL/about/</id>
 
-        <updated>2023-01-15T09:43:26+02:00</updated>
+        <updated>2023-01-15T11:48:01+02:00</updated>
             <summary>
                 <![CDATA[
                     bcsdfjhwfhwh
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                <p>bcsdfjhwfhwh</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>

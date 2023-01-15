@@ -5,23 +5,23 @@
     "home_page_url": "https://soccerbetz.github.io/EPL",
     "feed_url": "https://soccerbetz.github.io/EPL/feed.json",
     "user_comment": "",
+    "icon": "https://soccerbetz.github.io/EPL/media/website/premier-league-logologotyp.us.svg",
     "author": {
         "name": "Tristan Wiggill"
     },
     "items": [
         {
-            "id": "https://soccerbetz.github.io/EPL/about.html",
-            "url": "https://soccerbetz.github.io/EPL/about.html",
+            "id": "https://soccerbetz.github.io/EPL/about/",
+            "url": "https://soccerbetz.github.io/EPL/about/",
             "title": "Chelsea vs Crystal Palace",
             "summary": "bcsdfjhwfhwh",
-            "content_html": "<p>bcsdfjhwfhwh</p>",
             "author": {
                 "name": "Tristan Wiggill"
             },
             "tags": [
             ],
             "date_published": "2023-01-15T08:42:33+02:00",
-            "date_modified": "2023-01-15T09:43:26+02:00"
+            "date_modified": "2023-01-15T11:48:01+02:00"
         }
     ]
 }
