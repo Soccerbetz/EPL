@@ -3,12 +3,28 @@
     <title>EPL Angles</title>
     <link href="https://soccerbetz.github.io/EPL/feed.xml" rel="self" />
     <link href="https://soccerbetz.github.io/EPL" />
-    <updated>2023-01-15T13:49:40+02:00</updated>
+    <updated>2023-01-15T14:23:40+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
     <id>https://soccerbetz.github.io/EPL</id>
 
+    <entry>
+        <title>Why the EPL?</title>
+        <author>
+            <name>Tristan Wiggill</name>
+        </author>
+        <link href="https://soccerbetz.github.io/EPL/why-the-epl/"/>
+        <id>https://soccerbetz.github.io/EPL/why-the-epl/</id>
+
+        <updated>2023-01-15T14:23:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Why do I choose to bet on the English Premier League? From a purely betting perspective, the EPL is challenging and unpredictable. Several teams can win the league. Any team, no matter the odds or league position, can beat another. The EPL betting market is&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Positive Expected Value</title>
         <author>
@@ -33,7 +49,7 @@
         <link href="https://soccerbetz.github.io/EPL/about-epl-bets/"/>
         <id>https://soccerbetz.github.io/EPL/about-epl-bets/</id>
 
-        <updated>2023-01-15T13:49:40+02:00</updated>
+        <updated>2023-01-15T14:07:45+02:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to EPL Bets! As a dedicated English Premier League (EPL) fan, I am passionate about researching and analysing EPL teams, players and managers to find interesting and profitable betting opportunities. My goal is to provide free and valuable information to bettors looking to profit&hellip;
