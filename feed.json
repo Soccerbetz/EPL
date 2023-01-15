@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://soccerbetz.github.io/EPL/positive-expected-value/",
+            "url": "https://soccerbetz.github.io/EPL/positive-expected-value/",
+            "title": "Positive Expected Value",
+            "summary": "One of the best ways to make money long-term in sports betting is to consistently find and place positive expected value (positive EV) bets. Ok, hold up. What the heck are positive EV bets? In simple terms, positive EV bets are bets that have a&hellip;",
+            "author": {
+                "name": "Tristan Wiggill"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-15T13:36:42+02:00",
+            "date_modified": "2023-01-15T13:38:13+02:00"
+        },
+        {
             "id": "https://soccerbetz.github.io/EPL/about-epl-bets/",
             "url": "https://soccerbetz.github.io/EPL/about-epl-bets/",
             "title": "About EPL Bets",
@@ -21,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2023-01-15T13:11:48+02:00",
-            "date_modified": "2023-01-15T13:11:48+02:00"
+            "date_modified": "2023-01-15T13:49:40+02:00"
         },
         {
             "id": "https://soccerbetz.github.io/EPL/about/",
