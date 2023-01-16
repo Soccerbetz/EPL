@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "EPL Angles",
     "description": "",
-    "home_page_url": "https://soccerbetz.github.io/EPL",
-    "feed_url": "https://soccerbetz.github.io/EPL/feed.json",
+    "home_page_url": "https://eplbets.co.za",
+    "feed_url": "https://eplbets.co.za/feed.json",
     "user_comment": "",
-    "icon": "https://soccerbetz.github.io/EPL/media/website/premier-league-logologotyp.us.svg",
+    "icon": "https://eplbets.co.za/media/website/premier-league-logologotyp.us.svg",
     "author": {
         "name": "Tristan Wiggill"
     },
     "items": [
         {
-            "id": "https://soccerbetz.github.io/EPL/single-vs-multi-bets/",
-            "url": "https://soccerbetz.github.io/EPL/single-vs-multi-bets/",
+            "id": "https://eplbets.co.za/single-vs-multi-bets/",
+            "url": "https://eplbets.co.za/single-vs-multi-bets/",
             "title": "Single VS Multi-bets",
             "summary": "Personally, I prefer to bet singles as they are the easiest bets to make. In 2-way betting markets (e.g Over/Under) these bets either win or they lose. Simple. Why complicate matters? As already stated, consistently winning at sports betting is difficult. Most people lose money&hellip;",
             "author": {
@@ -24,8 +24,8 @@
             "date_modified": "2023-01-15T16:00:43+02:00"
         },
         {
-            "id": "https://soccerbetz.github.io/EPL/why-the-epl/",
-            "url": "https://soccerbetz.github.io/EPL/why-the-epl/",
+            "id": "https://eplbets.co.za/why-the-epl/",
+            "url": "https://eplbets.co.za/why-the-epl/",
             "title": "Why the EPL?",
             "summary": "Why do I choose to bet on the English Premier League? From a purely betting perspective, the EPL is challenging and unpredictable. Several teams can win the league. Any team, no matter the odds or league position, can beat another. The EPL betting market is&hellip;",
             "author": {
@@ -37,8 +37,8 @@
             "date_modified": "2023-01-15T17:34:10+02:00"
         },
         {
-            "id": "https://soccerbetz.github.io/EPL/positive-expected-value/",
-            "url": "https://soccerbetz.github.io/EPL/positive-expected-value/",
+            "id": "https://eplbets.co.za/positive-expected-value/",
+            "url": "https://eplbets.co.za/positive-expected-value/",
             "title": "Positive Expected Value",
             "summary": "One of the best ways to make money long-term in sports betting is to consistently find and place positive expected value (positive EV) bets. Ok, hold up. What the heck are positive EV bets? In simple terms, positive EV bets are bets that have a&hellip;",
             "author": {
@@ -50,8 +50,8 @@
             "date_modified": "2023-01-15T13:38:13+02:00"
         },
         {
-            "id": "https://soccerbetz.github.io/EPL/about-epl-bets/",
-            "url": "https://soccerbetz.github.io/EPL/about-epl-bets/",
+            "id": "https://eplbets.co.za/about-epl-bets/",
+            "url": "https://eplbets.co.za/about-epl-bets/",
             "title": "About EPL Bets",
             "summary": "Welcome to EPL Bets! As a dedicated English Premier League (EPL) fan, I am passionate about researching and analysing EPL teams, players and managers to find interesting and profitable betting opportunities. My goal is to provide free and valuable information to bettors looking to profit&hellip;",
             "author": {
@@ -63,17 +63,17 @@
             "date_modified": "2023-01-15T18:20:36+02:00"
         },
         {
-            "id": "https://soccerbetz.github.io/EPL/about/",
-            "url": "https://soccerbetz.github.io/EPL/about/",
+            "id": "https://eplbets.co.za/about/",
+            "url": "https://eplbets.co.za/about/",
             "title": "Crystal Palace VS Manchester United",
-            "summary": "Crystal Palace welcome Manchester United to Selhurst Park on Wednesday, January 18. Crystal Palace to win (4.380)",
+            "summary": "Crystal Palace come into this rescheduled midweek game on the back of a 1-0 loss away to fellow Londoners Chelsea. Manchester United meanwhile came from a goal down to beat Manchester City 2-1 at Old Trafford on the weekend. The Eagles have lost four of&hellip;",
             "author": {
                 "name": "Tristan Wiggill"
             },
             "tags": [
             ],
             "date_published": "2023-01-15T08:42:33+02:00",
-            "date_modified": "2023-01-15T12:46:53+02:00"
+            "date_modified": "2023-01-17T00:47:27+02:00"
         }
     ]
 }

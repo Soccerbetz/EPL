@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://soccerbetz.github.io/EPL/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://eplbets.co.za/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://soccerbetz.github.io/EPL/</loc>
+<loc>https://eplbets.co.za/</loc>
 </url>
 <url>
-<loc>https://soccerbetz.github.io/EPL/about/</loc>
-<lastmod>2023-01-15T12:46:53+02:00</lastmod>
+<loc>https://eplbets.co.za/about/</loc>
+<lastmod>2023-01-17T00:47:27+02:00</lastmod>
 </url>
 <url>
-<loc>https://soccerbetz.github.io/EPL/about-epl-bets/</loc>
+<loc>https://eplbets.co.za/about-epl-bets/</loc>
 <lastmod>2023-01-15T18:20:36+02:00</lastmod>
 </url>
 <url>
-<loc>https://soccerbetz.github.io/EPL/positive-expected-value/</loc>
+<loc>https://eplbets.co.za/positive-expected-value/</loc>
 <lastmod>2023-01-15T13:38:13+02:00</lastmod>
 </url>
 <url>
-<loc>https://soccerbetz.github.io/EPL/single-vs-multi-bets/</loc>
+<loc>https://eplbets.co.za/single-vs-multi-bets/</loc>
 <lastmod>2023-01-15T16:00:43+02:00</lastmod>
 </url>
 <url>
-<loc>https://soccerbetz.github.io/EPL/why-the-epl/</loc>
+<loc>https://eplbets.co.za/why-the-epl/</loc>
 <lastmod>2023-01-15T17:34:10+02:00</lastmod>
 </url>
 </urlset>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>EPL Angles</title>
-    <link href="https://soccerbetz.github.io/EPL/feed.xml" rel="self" />
-    <link href="https://soccerbetz.github.io/EPL" />
-    <updated>2023-01-15T18:20:36+02:00</updated>
+    <link href="https://eplbets.co.za/feed.xml" rel="self" />
+    <link href="https://eplbets.co.za" />
+    <updated>2023-01-17T00:47:27+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
-    <id>https://soccerbetz.github.io/EPL</id>
+    <id>https://eplbets.co.za</id>
 
     <entry>
         <title>Single VS Multi-bets</title>
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/single-vs-multi-bets/"/>
-        <id>https://soccerbetz.github.io/EPL/single-vs-multi-bets/</id>
+        <link href="https://eplbets.co.za/single-vs-multi-bets/"/>
+        <id>https://eplbets.co.za/single-vs-multi-bets/</id>
 
         <updated>2023-01-15T16:00:43+02:00</updated>
             <summary>
@@ -30,8 +30,8 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/why-the-epl/"/>
-        <id>https://soccerbetz.github.io/EPL/why-the-epl/</id>
+        <link href="https://eplbets.co.za/why-the-epl/"/>
+        <id>https://eplbets.co.za/why-the-epl/</id>
 
         <updated>2023-01-15T17:34:10+02:00</updated>
             <summary>
@@ -46,8 +46,8 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/positive-expected-value/"/>
-        <id>https://soccerbetz.github.io/EPL/positive-expected-value/</id>
+        <link href="https://eplbets.co.za/positive-expected-value/"/>
+        <id>https://eplbets.co.za/positive-expected-value/</id>
 
         <updated>2023-01-15T13:38:13+02:00</updated>
             <summary>
@@ -62,8 +62,8 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/about-epl-bets/"/>
-        <id>https://soccerbetz.github.io/EPL/about-epl-bets/</id>
+        <link href="https://eplbets.co.za/about-epl-bets/"/>
+        <id>https://eplbets.co.za/about-epl-bets/</id>
 
         <updated>2023-01-15T18:20:36+02:00</updated>
             <summary>
@@ -78,13 +78,13 @@
         <author>
             <name>Tristan Wiggill</name>
         </author>
-        <link href="https://soccerbetz.github.io/EPL/about/"/>
-        <id>https://soccerbetz.github.io/EPL/about/</id>
+        <link href="https://eplbets.co.za/about/"/>
+        <id>https://eplbets.co.za/about/</id>
 
-        <updated>2023-01-15T12:46:53+02:00</updated>
+        <updated>2023-01-17T00:47:27+02:00</updated>
             <summary>
                 <![CDATA[
-                    Crystal Palace welcome Manchester United to Selhurst Park on Wednesday, January 18. Crystal Palace to win (4.380)
+                    Crystal Palace come into this rescheduled midweek game on the back of a 1-0 loss away to fellow Londoners Chelsea. Manchester United meanwhile came from a goal down to beat Manchester City 2-1 at Old Trafford on the weekend. The Eagles have lost four of&hellip;
                 ]]>
             </summary>
         <content></content>
