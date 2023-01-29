@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>EPL Angles</title>
+    <title>EPL Bets</title>
     <link href="https://eplbets.co.za/feed.xml" rel="self" />
     <link href="https://eplbets.co.za" />
-    <updated>2023-01-17T00:47:27+02:00</updated>
+    <updated>2023-01-29T09:34:36+02:00</updated>
     <author>
         <name>Tristan Wiggill</name>
     </author>
@@ -16,8 +16,13 @@
         </author>
         <link href="https://eplbets.co.za/single-vs-multi-bets/"/>
         <id>https://eplbets.co.za/single-vs-multi-bets/</id>
+            <category term="single bets"/>
+            <category term="probability"/>
+            <category term="parlays"/>
+            <category term="multi bets"/>
+            <category term="accumulators"/>
 
-        <updated>2023-01-15T16:00:43+02:00</updated>
+        <updated>2023-01-29T09:34:36+02:00</updated>
             <summary>
                 <![CDATA[
                     Personally, I prefer to bet singles as they are the easiest bets to make. In 2-way betting markets (e.g Over/Under) these bets either win or they lose. Simple. Why complicate matters? As already stated, consistently winning at sports betting is difficult. Most people lose money&hellip;
@@ -32,8 +37,12 @@
         </author>
         <link href="https://eplbets.co.za/why-the-epl/"/>
         <id>https://eplbets.co.za/why-the-epl/</id>
+            <category term="stakes"/>
+            <category term="player prop markets"/>
+            <category term="liquidity"/>
+            <category term="EPL"/>
 
-        <updated>2023-01-15T17:34:10+02:00</updated>
+        <updated>2023-01-29T09:33:39+02:00</updated>
             <summary>
                 <![CDATA[
                     Why do I choose to bet on the English Premier League? From a purely betting perspective, the EPL is challenging and unpredictable. Several teams can win the league. Any team, no matter the odds or league position, can beat another. The EPL betting market is&hellip;
@@ -48,8 +57,13 @@
         </author>
         <link href="https://eplbets.co.za/positive-expected-value/"/>
         <id>https://eplbets.co.za/positive-expected-value/</id>
+            <category term="vig"/>
+            <category term="positive EV"/>
+            <category term="margin"/>
+            <category term="commission"/>
+            <category term="bookmakers"/>
 
-        <updated>2023-01-15T13:38:13+02:00</updated>
+        <updated>2023-01-29T09:31:32+02:00</updated>
             <summary>
                 <![CDATA[
                     One of the best ways to make money long-term in sports betting is to consistently find and place positive expected value (positive EV) bets. Ok, hold up. What the heck are positive EV bets? In simple terms, positive EV bets are bets that have a&hellip;
@@ -64,8 +78,12 @@
         </author>
         <link href="https://eplbets.co.za/about-epl-bets/"/>
         <id>https://eplbets.co.za/about-epl-bets/</id>
+            <category term="positive expected value"/>
+            <category term="English Premier League"/>
+            <category term="EPLbets"/>
+            <category term="EPL"/>
 
-        <updated>2023-01-15T18:20:36+02:00</updated>
+        <updated>2023-01-29T09:29:27+02:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to EPL Bets! As a dedicated English Premier League (EPL) fan, I am passionate about researching and analysing EPL teams, players and managers to find interesting and profitable betting opportunities. My goal is to provide free and valuable information to bettors looking to profit&hellip;
@@ -80,8 +98,10 @@
         </author>
         <link href="https://eplbets.co.za/about/"/>
         <id>https://eplbets.co.za/about/</id>
+            <category term="Manchester United"/>
+            <category term="Crystal Palace"/>
 
-        <updated>2023-01-17T00:47:27+02:00</updated>
+        <updated>2023-01-29T09:27:21+02:00</updated>
             <summary>
                 <![CDATA[
                     Crystal Palace come into this rescheduled midweek game on the back of a 1-0 loss away to fellow Londoners Chelsea. Manchester United meanwhile came from a goal down to beat Manchester City 2-1 at Old Trafford on the weekend. The Eagles have lost four of&hellip;
